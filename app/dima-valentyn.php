@@ -1,1 +1,2 @@
 <?php
+echo "Dima text";
