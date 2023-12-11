@@ -1,3 +1,3 @@
 <?php
-echo 'dev';
-//nijkhjghjgghj
+
+include_once '../bootstrap.php';
