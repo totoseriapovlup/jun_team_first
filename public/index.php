@@ -1,3 +1,3 @@
 <?php
-echo 'main';
-//nijkhjghjgghj
+
+include_once '../bootstrap.php';
